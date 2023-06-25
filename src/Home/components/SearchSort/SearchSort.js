@@ -10,13 +10,9 @@ const SearchSort = () => {
     <section className='products-header'>
     <select name="sort" id="sort" className='sort-selection'value={selectState} onChange={sorting}>
       <option value="lowest">Price(lowest)</option>
-      <option value="#" disabled></option>
       <option value="highest">Price(highest)</option>
-      <option value="#" disabled></option>
       <option value="a-z">Product(a-z)</option>
-      <option value="#" disabled></option>
       <option value="z-a">Product(z-a)</option>
-      <option value="#" disabled></option>
       <option value="discount" hidden={category !== 'all'} disabled={category !== 'all'}>Discount(%)</option>
     </select>
     <input type="text" autoComplete='off' className="search-filter" placeholder="Search" value={textVal} name="searchVal" onChange={updateFilterValue}/>
