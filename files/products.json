@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "title": "Men's T-Shirt",
+    "description": "A comfortable and stylish men's t-shirt.",
+    "imgUrl": "images/tshirt.jpg",
+    "price": 29.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 2,
+    "title": "Men's Jeans",
+    "description": "Classic men's jeans for everyday wear.",
+    "imgUrl": "images/jeans.jpg",
+    "price": 59.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 5
+  },
+  {
+    "id": 3,
+    "title": "Men's Sweater",
+    "description": "Warm and cozy sweater for chilly days.",
+    "imgUrl": "images/sweater.jpg",
+    "price": 49.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 4,
+    "title": "Men's Dress Shirt",
+    "description": "Elegant dress shirt for formal occasions.",
+    "imgUrl": "images/dress_shirt.jpg",
+    "price": 39.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 5,
+    "title": "Men's Shorts",
+    "description": "Comfortable and breathable shorts for summer.",
+    "imgUrl": "images/shorts.jpg",
+    "price": 24.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 8
+  },
+  {
+    "id": 6,
+    "title": "Men's Jacket",
+    "description": "Stylish and versatile jacket for any occasion.",
+    "imgUrl": "images/jacket.jpg",
+    "price": 79.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 7,
+    "title": "Men's Sweatshirt",
+    "description": "Casual and comfortable sweatshirt for everyday wear.",
+    "imgUrl": "images/sweatshirt.jpg",
+    "price": 34.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 8,
+    "title": "Men's Polo Shirt",
+    "description": "Classic and timeless polo shirt.",
+    "imgUrl": "images/polo_shirt.jpg",
+    "price": 27.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 9,
+    "title": "Men's Hoodie",
+    "description": "Cozy and warm hoodie for colder days.",
+    "imgUrl": "images/hoodie.jpg",
+    "price": 44.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 10,
+    "title": "Men's Chinos",
+    "description": "Versatile and stylish chinos for a polished look.",
+    "imgUrl": "images/chinos.jpg",
+    "price": 54.99,
+    "quantity": 0,
+    "category": 1,
+    "discount": 0
+  },
+  {
+    "id": 11,
+    "title": "Women's Dress",
+    "description": "A stylish and elegant dress for women.",
+    "imgUrl": "images/dress.jpg",
+    "price": 59.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 15
+  },
+  {
+    "id": 12,
+    "title": "Women's Blazer",
+    "description": "Sophisticated and professional blazer for women.",
+    "imgUrl": "images/blazer.jpg",
+    "price": 89.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 0
+  },
+  {
+    "id": 13,
+    "title": "Women's Jeans",
+    "description": "Classic and comfortable jeans for women.",
+    "imgUrl": "images/wjeans.jpg",
+    "price": 49.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 0
+  },
+  {
+    "id": 14,
+    "title": "Women's Skirt",
+    "description": "Flattering and trendy skirt for women.",
+    "imgUrl": "images/skirt.jpg",
+    "price": 34.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 0
+  },
+  {
+    "id": 15,
+    "title": "Women's Sweater",
+    "description": "Cozy and warm sweater for colder days.",
+    "imgUrl": "images/wsweater.jpg",
+    "price": 44.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 0
+  },
+  {
+    "id": 16,
+    "title": "Women's Jacket",
+    "description": "Stylish and versatile jacket for women.",
+    "imgUrl": "images/wjacket.jpg",
+    "price": 79.99,
+    "quantity": 0,
+    "category": 2,
+    "discount": 0
+  },
+  {
+    "id": 17,
+    "title": "Diamond Necklace",
+    "description": "Elegant and sparkling diamond necklace.",
+    "imgUrl": "images/diamond_necklace.jpg",
+    "price": 999.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 50
+  },
+  {
+    "id": 18,
+    "title": "Gold Earrings",
+    "description": "Classic and timeless gold earrings.",
+    "imgUrl": "images/gold_earrings.jpg",
+    "price": 299.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 19,
+    "title": "Silver Bracelet",
+    "description": "Stylish and versatile silver bracelet.",
+    "imgUrl": "images/silver_bracelet.jpg",
+    "price": 149.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 20,
+    "title": "Pearl Earrings",
+    "description": "Graceful and sophisticated pearl earrings.",
+    "imgUrl": "images/pearl_earrings.jpg",
+    "price": 199.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 21,
+    "title": "Rose Gold Ring",
+    "description": "Romantic and trendy rose gold ring.",
+    "imgUrl": "images/rose_gold_ring.jpg",
+    "price": 179.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 20
+  },
+  {
+    "id": 22,
+    "title": "Diamond Stud Earrings",
+    "description": "Classic and elegant diamond stud earrings.",
+    "imgUrl": "images/diamond_stud_earrings.jpg",
+    "price": 499.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 23,
+    "title": "Emerald Pendant",
+    "description": "Exquisite and vibrant emerald pendant.",
+    "imgUrl": "images/emerald_pendant.jpg",
+    "price": 349.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 24,
+    "title": "Silver Hoop Earrings",
+    "description": "Chic and versatile silver hoop earrings.",
+    "imgUrl": "images/silver_hoop_earrings.jpg",
+    "price": 89.99,
+    "quantity": 0,
+    "category": 3,
+    "discount": 0
+  },
+  {
+    "id": 25,
+    "title": "Smartphone",
+    "description": "A powerful and feature-rich smartphone.",
+    "imgUrl": "images/smartphone.jpg",
+    "price": 699.99,
+    "quantity": 0,
+    "category": 4,
+    "discount": 0
+  },
+  {
+    "id": 26,
+    "title": "Laptop",
+    "description": "A high-performance and portable laptop.",
+    "imgUrl": "images/laptop.jpg",
+    "price": 1299.99,
+    "quantity": 0,
+    "category": 4,
+    "discount": 30
+  },
+  {
+    "id": 27,
+    "title": "Wireless Headphones",
+    "description": "Sleek and comfortable wireless headphones.",
+    "imgUrl": "images/wireless_headphones.jpg",
+    "price": 199.99,
+    "quantity": 0,
+    "category": 4,
+    "discount": 0
+  },
+  {
+    "id": 28,
+    "title": "Smart Watch",
+    "description": "A stylish and feature-packed smartwatch.",
+    "imgUrl": "images/smart_watch.jpg",
+    "price": 249.99,
+    "quantity": 0,
+    "category": 4,
+    "discount": 0
+  },
+  {
+    "id": 29,
+    "title": "Bluetooth Speaker",
+    "description": "Portable and high-quality Bluetooth speaker.",
+    "imgUrl": "images/bluetooth_speaker.jpg",
+    "price": 79.99,
+    "quantity": 0,
+    "category": 4,
+    "discount": 0
+  }
+]
