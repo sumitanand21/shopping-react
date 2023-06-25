@@ -1,0 +1,26 @@
+.products-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    height: 40px;
+}
+
+.sort-selection {
+    padding: 0.5rem;
+    cursor: pointer;
+    outline: none;
+    border-radius: 0px;
+}
+
+
+.sort-select--option {
+    padding: 0.5rem 0;
+    cursor: pointer;
+    height: 2rem;
+    padding: 10px;
+}
+
+.search-filter{
+    padding: 0.5rem;
+    outline: none;
+}

@@ -1,0 +1,41 @@
+.products-container {
+    height: 100%;
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.product-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 6px 26px;
+}
+
+.count-label{
+    font-size: 14px;
+    color: #303030;
+    font-weight: 600;
+}
+
+.count-val{
+    font-size: 14px;
+    color: #303030;
+    font-weight: 100;
+}
+
+.products {
+    display: grid;
+    grid-auto-rows: minmax(auto, 290px);
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-gap: 56px;
+    padding: 26px;
+    /* height: calc(100% - 92px);
+    overflow: auto; */
+}
+
+.no-data{
+    display: flex;
+    justify-content: center;
+}
+
+

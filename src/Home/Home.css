@@ -1,0 +1,17 @@
+.container-home{
+    display: flex;
+    width: 100%;
+    min-height: 100%;
+    font-family: "Work Sans", sans-serif;
+    /* height: 100%; */
+}
+
+.category-wrap{
+    flex:auto;
+    min-width: 200px;
+    max-width: 250px;
+}
+
+.products-wrap{
+    flex: 1;
+}
