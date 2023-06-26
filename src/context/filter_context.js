@@ -54,7 +54,7 @@ export const FilterContextProvider = ({ children }) => {
     dispatch({ type: actionType.clearFilters });
   };
 
-  // to sort the product
+  // to sort and filter the product
   useEffect(() => {
     dispatch({ type: actionType.filterProducts });
     dispatch({ type: actionType.sortingProducts });
